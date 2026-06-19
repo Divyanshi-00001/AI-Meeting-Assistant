@@ -1,5 +1,7 @@
 .venv/
 __pycache__/
-downloades/
+*.pyc
 vector_db/
+downloades/
+*.wav
 .env
